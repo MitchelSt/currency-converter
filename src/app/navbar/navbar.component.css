@@ -1,0 +1,21 @@
+header {
+  background-color: #586f7c;
+  padding: 2vh;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 2vh;
+  font-size: 1.4em;
+}
+
+a:hover {
+  background-color: #3c4b53;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
